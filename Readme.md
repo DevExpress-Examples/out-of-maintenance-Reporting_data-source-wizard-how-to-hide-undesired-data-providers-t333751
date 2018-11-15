@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [frmDEsigner.cs](./CS/CustomProviderSample/frmDEsigner.cs) (VB: [frmDEsigner.vb](./VB/CustomProviderSample/frmDEsigner.vb))
+* **[MyWizardCustomizationService.cs](./CS/CustomProviderSample/MyWizardCustomizationService.cs) (VB: [MyWizardCustomizationService.vb](./VB/CustomProviderSample/MyWizardCustomizationService.vb))**
+<!-- default file list end -->
 # Data Source Wizard - How to hide undesired data providers
 
 
